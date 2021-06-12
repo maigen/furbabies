@@ -1,0 +1,77 @@
+.navBar {
+    min-height: 43px;
+    background-color: cadetblue;
+}
+
+.navigation {
+    background-color: aquamarine;
+    padding: 10px 20px;
+    display: inline-block;
+    text-align: center;
+    margin-right: 10px;
+    margin-top: 2px;
+}
+.first {
+    margin-left: 10px;
+}
+.left {
+    width: 29%;
+    float: left;
+    height: 900px;
+}
+
+.top {
+    height: 250px;
+    background-color: deeppink;
+    text-align: center;
+    padding-top: 15px;
+}
+
+.bottom {
+    height: 650px;
+    background-color: darkturquoise;
+    padding-top: 20px;
+    font-size: 20px;
+}
+
+.main {
+    float: right;
+    width: 70%;
+    height: 900px;
+    background-color: darkseagreen;
+}
+.heading1 {
+    text-align: center;
+}
+.together {
+    height: 200px;
+    width: 300px;
+    float: left;
+    padding-right: 15px;
+}
+.topmain {
+    height:270px;
+}
+.gallery {
+    display: inline;
+    min-height: 300px;
+    margin-top: 50px;
+    text-align: center;
+    height: 500px;
+}
+.galleryName {
+    text-align: center;
+}
+.babies {
+    width: 220px;
+    height: 300px;
+    display: inline-block;
+}
+.widebabies {
+    width: 400px;
+    height: 300px;
+}
+.bernie {
+    width: 100px;
+    height: 150px;
+}
